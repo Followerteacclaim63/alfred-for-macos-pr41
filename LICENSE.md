@@ -1,4 +1,4 @@
-#  
+#  professional Tool for Alfred for macOS - goal tracking and tags offers the most advanced Alfred for macOS tool, with goal tracking and tags. Ideal for professionals.
 
 
 
